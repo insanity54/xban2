@@ -1,6 +1,6 @@
 # iban
 
-Inspired by xban2, this is a minimal banning mod which helps admins ban problem players.
+Inspired by xban2, this is a minimal banning mod which helps admins IP ban problem players.
 
 ## Features
 
